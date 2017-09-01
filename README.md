@@ -53,7 +53,7 @@ print(num_pressures, "kinds of pressures")
 8 kinds of pressures
 ```
 
-
+![](https://github.com/xiandong79/Interference-Aware-Cluster-Management/blob/master/pictures/plot-RMSE.png)
 
 ## Results and Conclusion
 在未来的使用中，每次任务提交时，只需在IPS-rating-final.csv文件中，继续补充 此种workload_id 的在 pressure_id 测试值（2-3次），即可得出此种 workload在每一种压力下的 “百分制评分”。 Greedily选择最高评分即可。
